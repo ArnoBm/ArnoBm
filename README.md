@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Arnob Mustakim</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -12,8 +12,6 @@
 - 💬 Ask me about **HTML, CSS, C#, C++, C, Java**
 
 - 📫 How to reach me **arnobmustakim.12dec@gmail.com**
-
-- 📄 Know about my experiences [https://vuedubd-my.sharepoint.com/:b:/g/personal/201311015_vu_edu_bd/EZinbYEGRedIpThXqlPY_XoB0XO3Zd8Fy7DCBLPUY4grmw?e=Gh3lxr](https://vuedubd-my.sharepoint.com/:b:/g/personal/201311015_vu_edu_bd/EZinbYEGRedIpThXqlPY_XoB0XO3Zd8Fy7DCBLPUY4grmw?e=Gh3lxr)
 
 - ⚡ Fun fact **Did you know that I have a knack for turning errors into opportunities for learning? Each coding challenge I face isn't just a hurdle; it's a stepping stone to becoming a C# superhero! 🚀🦸‍♂️ I'm keeping up the fantastic work, and remember, even the best programmers started where I am now! Keep coding, keep smiling! 😊**
 
