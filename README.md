@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **ERP Software**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, C#, C++, C, Java**
+- 💬 Ask me about **HTML, CSS, C#, C++, C, ASP.NET**
 
 - 📫 How to reach me **arnobmustakim.12dec@gmail.com**
 
